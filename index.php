@@ -59,7 +59,7 @@ include "koneksi.php";
     <section id="hero" class="text-center p-5 bg-danger-subtle text-sm-start">
         <div class="container">
             <div class="d-sm-flex flex-sm-row-reverse align-items-center">
-                <img src="img/gambar1.jpg" class="img-fluid" width="300" />
+                <img src="img/end game.jpg" class="img-fluid" width="300" />
                 <div>
                     <h1 class="fw-bold display-4">
                         Create Memories, Save Memories, Everyday
@@ -232,7 +232,7 @@ include "koneksi.php";
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-center">
                 <div class="p-3">
-                    <img src="img/gambar3.jpg" class="rounded-circle border shadow" width="300" />
+                    <img src="img/end game.jpg" class="rounded-circle border shadow" width="300" />
                 </div>
                 <div class="p-md-5 text-sm-start">
                     <h3 class="lead">A11.2023.14981</h3>
